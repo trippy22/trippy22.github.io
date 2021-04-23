@@ -1,0 +1,1 @@
+{"properties": {"id": 14886, "actions": ["Use", "None", "Collect", "None", "None"], "models_2": [21969], "name": "Bank chest"}, "uniques": [{"width": 1, "length": 1, "id": 14886, "actions": ["Use", "None", "Collect", "None", "None"], "models_2": [21969], "name": "Bank chest", "plane": 0, "i": 45, "j": 51, "x": 56, "y": 16, "type": 10, "rotation": 1}]}

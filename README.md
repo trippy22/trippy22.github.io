@@ -1,2 +1,2 @@
 # mejrs.github.io
-Dungeon maps for the RSWiki maps project
+Dungeon maps for the wiki maps
